@@ -6,7 +6,7 @@ It is a login form created using ReactJS with React Hooks and props to call func
 2.Open your Command Line Prompt. \
 3.Go to the directory where you saved the file (e.g C:\Users\inara>cd react-login)\
 4.type "npm start" in the command prompt\
-5.you will be redirected to the web app on the browser\
+5.you will be redirected to the web app on the browser
 
 
 # Features of the app:
